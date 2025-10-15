@@ -1,0 +1,25 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "description": "My first try outs with 11ty.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesbruins/eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julesbruins/eleventy/issues"
+  },
+  "homepage": "https://github.com/julesbruins/eleventy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "axios": "^1.12.2"
+  }
+}
