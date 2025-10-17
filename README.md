@@ -1,4 +1,4 @@
-# eleventy
+# Eleventy
 My first try outs with 11ty. 
 
 ## USER EXPERIENCE (UX)
@@ -32,3 +32,8 @@ De documentatie van 11ty is erg duidelijk. Er zijn veel bronnen. Zo heb ik zelf 
 
 ### Heldere Interface
 Als developer is Eleventy goed overzichtelijk. Het is niet erg ingewikkeld en ziet er logisch uit. 
+
+
+
+## CONTENT MANAGEMENT EXPERIENCE
+Over algemeen is Eleventy niet het meest ingewikkeld. Om bijvoorbeeld tekst te kunnen wijzigen is geen code kennis nodig, dit kan al simpel op bijvoorbeeld Github. Het Markdown bestand kan zo gewijzigd worden en het wordt automatisch op de website aangepast,. Wil er echt een nieuwe pagina of iets dergelijks aangemaakt/gewijzigd worden moet er lichte HTML kennis zijn. Dit voor meer rich content. De mappenstructuur moet begrepen worden. Voor content die gebruik maakt van shortcodes, includes of custom filters, is een basiskennis van templating nodig om fouten te voorkomen.
